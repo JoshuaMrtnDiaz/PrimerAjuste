@@ -32,7 +32,6 @@ public class TRABAJO2 {
             }
             particiones.add(new Particion1(i + 1, tamanoParticion));
         }
-
         /*procesos.add(new Proceso1("S0",100));
         procesos.add(new Proceso1("JAVA", 200));
         procesos.add(new Proceso1("word", 700));
