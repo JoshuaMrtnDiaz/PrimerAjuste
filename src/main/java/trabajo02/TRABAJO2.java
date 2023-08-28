@@ -13,6 +13,7 @@ public class TRABAJO2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        /*Primer Ajuste*/
         int MemoriaTotal = 2000;
         int MemoriaUtilizada=0;//Tmaño del sistema Operativo
           
